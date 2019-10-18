@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set android:ordering="sequentially"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <objectAnimator android:duration="375" android:valueFrom="0x00B3CCFF" android:valueTo="0xFFB3CCFF" android:valueType="colorType" android:propertyName="backgroundColor" />
+    <objectAnimator android:duration="375" android:valueFrom="0xFFB3CCFF" android:valueTo="0x00B3CCFF" android:valueType="colorType" android:propertyName="backgroundColor" />
+</set>

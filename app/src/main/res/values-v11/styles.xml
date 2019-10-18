@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Base" parent="@android:style/Theme.Holo.Light" />
+    <style name="AppBaseTheme" parent="@android:style/Theme.Holo.Light" />
+    <style name="FullscreenActionBarStyle" parent="@android:style/Widget.Holo.ActionBar" />
+    <style name="FullscreenTheme" parent="@android:style/Theme.Holo">
+        <item name="android:windowBackground">@null</item>
+        <item name="android:actionBarStyle">@style/FullscreenActionBarStyle</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="metaButtonBarStyle">?android:buttonBarStyle</item>
+        <item name="metaButtonBarButtonStyle">?android:buttonBarButtonStyle</item>
+    </style>
+</resources>

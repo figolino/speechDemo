@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <TextView android:textSize="24.0dip" android:layout_gravity="top" android:id="@id/textView" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="10.0dip" android:text="Say one of the words below!" android:textAlignment="center" />
+    <ListView android:layout_gravity="center|top" android:id="@id/list_view" android:background="@drawable/border" android:layout_width="240.0dip" android:layout_height="wrap_content" android:layout_marginTop="100.0dip" android:textAlignment="center" />
+    <Button android:layout_gravity="bottom|center" android:id="@id/quit" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="10.0dip" android:text="Quit" />
+</FrameLayout>

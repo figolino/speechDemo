@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="dimen" name="horizontal_page_margin">@dimen/margin_medium</item>
+    <dimen name="margin_huge">64.0dip</dimen>
+    <dimen name="margin_large">32.0dip</dimen>
+    <dimen name="margin_medium">16.0dip</dimen>
+    <dimen name="margin_small">8.0dip</dimen>
+    <dimen name="margin_tiny">4.0dip</dimen>
+    <item type="dimen" name="vertical_page_margin">@dimen/margin_medium</item>
+</resources>

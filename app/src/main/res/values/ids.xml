@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="container" />
+    <item type="id" name="textView" />
+    <item type="id" name="list_view" />
+    <item type="id" name="quit" />
+    <item type="id" name="texture" />
+    <item type="id" name="results" />
+    <item type="id" name="debug_overlay" />
+    <item type="id" name="black" />
+    <item type="id" name="grid_layout" />
+    <item type="id" name="overlay" />
+    <item type="id" name="tracking_overlay" />
+    <item type="id" name="list_text_item" />
+</resources>

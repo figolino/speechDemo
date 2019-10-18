@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="activity_name_speech">ZHAW Speech</string>
+    <string name="app_name">Speech ZHAW (TF)</string>
+    <string name="description_info">Info</string>
+    <string name="banner">ZHAW demo App speech demo based on TF</string>
+</resources>
